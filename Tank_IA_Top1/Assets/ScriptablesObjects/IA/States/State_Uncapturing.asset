@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2df60f56192ac6f46aadfd1c9c60df06, type: 3}
+  m_Name: State_Uncapturing
+  m_EditorClassIdentifier: 
+  _updateTasks:
+  - {fileID: 11400000, guid: ffb005e63b03f1b4cb0d737f6ff3997b, type: 2}
+  _enterTasks: []
+  _exitTasks: []
+  _transitions:
+  - {fileID: 11400000, guid: 2623ae0077a312947a0bf6dcf33373a2, type: 2}
+  - {fileID: 11400000, guid: f467a26b4a88b96479cb4a327e3292ef, type: 2}
+  - {fileID: 11400000, guid: 7bb65599f9382f84880d134ce95cb91b, type: 2}

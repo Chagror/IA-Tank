@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa120b8be10087b4f94a6f798ed7f36d, type: 3}
+  m_Name: Not Captured To Captured
+  m_EditorClassIdentifier: 
+  targetState: {fileID: 11400000, guid: 5a2da435b93a8bb43ba0d6ac853f37f7, type: 2}

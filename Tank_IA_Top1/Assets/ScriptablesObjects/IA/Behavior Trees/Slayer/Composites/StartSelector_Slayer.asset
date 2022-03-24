@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf5432caee466364aa7d898ff86e44c3, type: 3}
+  m_Name: StartSelector_Slayer
+  m_EditorClassIdentifier: 
+  childrenNodes:
+  - {fileID: 11400000, guid: 3b361bc2135b5804bb2f3b4f24cdbeb0, type: 2}
+  - {fileID: 11400000, guid: 4b3418a5610721f40ba3c17752ee5911, type: 2}

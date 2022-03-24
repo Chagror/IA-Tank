@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 761d4593117a6af429987bb94ecbe594, type: 3}
+  m_Name: BTD_EvaluateShootingDistance_Slayer2
+  m_EditorClassIdentifier: 
+  controller: {fileID: 0}
+  childNode: {fileID: 11400000, guid: 81ca41a1903310b4fb981e69685f939a, type: 2}
